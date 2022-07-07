@@ -114,6 +114,7 @@ Elegimos la fecha: Daily 1: 30/06 a las 19hs Arg.
 #### En lo personal, creo que se noto la ausencia de un Scrum Master para algunas tomas de decisiones como con que herramientas trabajar y a la hora de hacer la planning.
 #### Ya que hicimos una planning con stories pero alrededor de esas stories salieron muchos inconvenientes, se fueron solucionando al pasar los dailies pero habría sido mejor prevenir algunas cosas. 
 #### Se noto la ausencia de un diseñador o de algo pensado de antemano ya que la pagina no esta muy al nivel que debería estar esteticamente. 
+#### Para mejorar por mi parte, fui muy desordenado con los endpoint y las funciones en el backend.
 #### Y para destacar es que hubo una buena organización como equipo y el compromiso con el proyecto. Nadie se sintió abrumado ni estancado al hacer las cosas.
 #### Actualmente el proyecto como MVP esta bien. Pero tiene mucho camino por recorrer.
 
